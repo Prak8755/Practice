@@ -1,0 +1,23 @@
+
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+nav{
+    height: 100px;
+    background-color: aqua;
+    padding:10px 20px;
+    
+
+}
+nav ul{
+    display:flex;
+   gap:50px;
+  padding-left: 150px;
+}
+ul li{
+    list-style: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+}
